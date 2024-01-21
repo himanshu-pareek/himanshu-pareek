@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact&hide=python)](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact&hide=python)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact&hide=python&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact&hide=python&theme=tokyonight)
 
 </div>
