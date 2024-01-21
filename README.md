@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 </picture>
 -->
 
+<div style="display: flex; flex-direction: row">
+
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=tokyonight)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact)
 
-[![Himanshu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu-pareek&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu-pareek&layout=compact)
+</div>
