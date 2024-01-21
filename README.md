@@ -16,4 +16,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-pareek)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=vue" />
+</picture>
+-->
+
+[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=tokyonight)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact)
+
+[![Himanshu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu-pareek&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu-pareek&layout=compact)
