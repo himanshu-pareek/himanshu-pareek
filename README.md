@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-direction: row">
 
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=tokyonight&rank_icon=percentile)](https://github-readme-stats.vercel.app/api?username=himanshu-pareek&show_icons=true&theme=tokyonight&rank_icon=percentile)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact&hide=python&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-pareek&layout=compact&hide=python&theme=tokyonight)
 
 </div>
